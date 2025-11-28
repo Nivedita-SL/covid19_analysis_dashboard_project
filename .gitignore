@@ -39,7 +39,7 @@ env/
 
 # Data files (large CSV files - keep only source, not generated)
 covid_output/
-*.csv
+# *.csv  # Commented out to allow tracking the source CSV
 
 # Jupyter
 .ipynb_checkpoints/
